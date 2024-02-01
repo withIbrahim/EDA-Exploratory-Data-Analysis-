@@ -1,1 +1,1 @@
-# EDA-Exploratory-Data-Analysis-
+This repository contains Python scripts and Jupyter notebooks for exploring, visualizing, and gaining insights from diverse datasets. Dive into the world of data with interactive analyses and compelling visualizations.
